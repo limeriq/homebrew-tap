@@ -1,6 +1,6 @@
 cask "limeriq" do
-  version "0.1.0-beta.20260106"
-  sha256 "c0f51a74de72a50985c158416534fb11e3da19d2799ace6a6bdd3527fa08a556"
+  version "0.1.1-beta.20260106"
+  sha256 "063adca19091ca85daec7de9b9777582c82ee2dab3e088308c4e29be39562d86"
 
   url "https://github.com/limeriq/limeriq/releases/download/v#{version}/limeriq-suite-beta.pkg"
   name "limerIQ"
